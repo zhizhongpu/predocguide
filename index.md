@@ -6,11 +6,11 @@ nav_order: 1
 
 This is a guide to a "top" pre-doctoral research position in social science, intended for Middlebury College students. Admission to these programs, similar to other competitive employment options, suffers heavily from information asymmetry. This document aims to reduce this barrier for aspiring Middlebury students relative to their counterparts at top research universities. 
 
-Expressed are my personal opinions. Many of them will not be the optimal advice for you, depending on your personal circumstances. This guide is solely to maximize your chances of getting into the most competitive predocs, and many suggestions may be "excessive" if you shoot for less competitive predocs. I strongly recommend reading in consultation with your faculty mentors who know your situation, before acting on any of my advice.
+Expressed are my personal opinions. Many of them will not be the optimal advice for you, depending on your personal circumstances. This guide is solely to maximize your chances of getting into the most competitive predocs, and many suggestions may be "excessive" if you shoot for less competitive programs. I strongly recommend reading in consultation with your faculty mentors who know your situation, before acting on any of my advice.
 
 
 ## "Top" Predoc Programs?
-**Definition**: While "top" is subjective and goal-dependent, here I narrowly define top pre-docs as the pipelines to top 7 economics departments. Some of them have median placement in top 7 Economics PhD programs. 
+**Definition**: What is "top" is subjective - the optimizing solution depends on your objective function and constrains. Here I narrowly define "top" pre-docs as the pipelines to top 7 economics departments. Some of them have median placement in top 7 Economics PhD programs. They tend to be quite competitive and thus require extensive effort, preparation, skills, and observables on your part.
 **Examples** of top predoc programs may include but are surely not limited to: 
 - MIT Blueprint Lab
 - MIT: Amy Finkelstein
