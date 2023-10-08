@@ -144,6 +144,9 @@ These institutions tend to offer more advanced classes (e.g. graduate classes, a
 ## Feb Yourself
 Most predocs start in early summer, but some PIs will prefer candidates who can start earlier. Being a Feb does not hurt and sometimes is an advantage, so do it if possible.
 
+## Have your GRE scores ready
+Most PIs value both competitiveness in grad school applications and qualitative & quantitative skills. A pretty GRE score helps with your application in both dimensions - and you will have to take it anyways before applying to grad school. 
+
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
