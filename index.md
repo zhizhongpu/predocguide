@@ -10,7 +10,7 @@ Expressed are my personal opinions. Many of them will not be the optimal advice 
 
 
 ## "Top" Predoc Programs?
-**Definition**: What is "top" is subjective - the optimizing solution depends on your objective function and constrains. Here I narrowly define "top" pre-docs as the pipelines to top 7 economics departments. Some of them have median placement in top 7 Economics PhD programs. They tend to be quite competitive and thus require extensive effort, preparation, skills, and observables on your part.
+**Definition**: What is "top" is subjective - the optimizing solution depends on your objective function and constraints. Here I mean to discuss the pipeline programs to top 7 economics departments - some of them have median placement in top 7 Economics PhD programs. These programs are quite competitive and thus require extensive effort, preparation, skills, and observables on your part.
 **Examples** of top predoc programs may include but are surely not limited to: 
 - MIT Blueprint Lab
 - MIT: Amy Finkelstein
