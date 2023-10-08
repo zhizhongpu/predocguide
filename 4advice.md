@@ -38,6 +38,7 @@ Middlebury's transcript is not the clearest, and some top predocs (e.g. Amy Fink
 
 ## Connect To Other Applicants
 Competitive candidates usually get multiple offers. Some star candidates, when turning down offers, may express their appreciation to the offering PI by referring the job to their connections.
+
 Personal experience: I know someone who got referred to, and eventually received an offer from, a top predoc from his friend who declined the offer. 
 
 
