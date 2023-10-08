@@ -26,15 +26,15 @@ Expressed are my personal opinions. Many of them will not be the optimal advice 
 - Chicago Booth: Pascal Noel
 - Chicago BFI: Magne Mogstad, Alexander Torgovitsky
 
-Non-top predocs also place researchers into top programs, although less frequent. 
+Non-top predocs also place researchers into top programs, albeit less frequently. 
 
 
-### Why a top predoc program may not be for you
+### Why a "top" predoc program may NOT be for you
 - If you are not committed to pursing an Economics PhD yet, you may prefer some general-purpose programs
   - Examples include research positions at think tanks, law schools, economic consulting firms, quantitative positions at banks or hedge funds, and data science positions in tech / retail industry
   - In these positions, those who end up not pursing an Economics PhD still land on other good graduate programs / think tanks / law school / data scientist / economic consulting / other industry jobs
   - On the other hand, some top predoc programs are solely for placing into Economics PhDs; they may fare badly as springboards to other positions
-- A "top" predoc does not necessarily maximize your learning / treatment effect on human capital for you, due to both selection bias and treatment effect heterogeneity
+- A "top" predoc does not necessarily maximize your learning / you-specific treatment effect, due to both selection bias and treatment effect heterogeneity
 - A "top" Economics program may not matter as much to you in life. 
   - Many do great work without going to a top school
     - John List went to U Wisconsin for undergrad and U of Wyoming for PhD 
