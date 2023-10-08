@@ -8,11 +8,6 @@ This is a guide to a "top" pre-doctoral research position in social science, int
 
 Expressed are my personal opinions. Many of them will not be the optimal advice for you, depending on your personal circumstances. I strongly recommend reading in consultation with your faculty mentors who know your situation, before acting on any of my advice.  
 
-## This Guide's Credibility
-When I studied at Harvard, I worked with predocs at top programs like David Yang's lab and Melissa Dell's lab. I applied to 15 predoc positions, landed 2 job offers including Jesse Shapiro's lab by early October. I also scheduled interviews with Amy Finkelstein and Blueprint Labs before withdrawing. My advice in this document mostly comes from my personal experiences, reading online, and conversations with my connections and faculty mentors. 
-
-
-
 
 ## "Top" Predoc Programs?
 **Definition**: While "top" is subjective and goal-dependent, here I narrowly define top pre-docs as the pipelines to top 7 economics departments. Some of them have median placement in top 7 Economics PhD programs. 
