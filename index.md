@@ -1,12 +1,6 @@
 ---
-title: Home
-layout: home
----
-
----
-author: "Zhizhong (ZZ) Pu, Middlebury College, zpu@middlebury.edu"
-date: "2023-09-24"
-output: pdf_document
+title: 1. Introduction
+layout: default
 ---
 
 # 1. Introduction
