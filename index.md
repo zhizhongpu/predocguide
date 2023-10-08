@@ -4,7 +4,7 @@ layout: default
 nav_order: 1
 ---
 
-This is a guide to a "top" pre-doctoral research position, intended for Middlebury College students. Predoc recruiting, as potentially most other jobs, suffer heavily from information asymmetry. This document aims to reduce this barrier for aspiring Middlebury students relative to their counterparts at top research universities. 
+This is a guide to a "top" pre-doctoral research position in social science, intended for Middlebury College students. Predoc recruiting, as potentially most other jobs, suffer heavily from information asymmetry. This document aims to reduce this barrier for aspiring Middlebury students relative to their counterparts at top research universities. 
 
 Expressed are my personal opinions. Many of them will not be the optimal advice for you, depending on your personal circumstances. I strongly recommend reading in consultation with your faculty mentors who know your situation, before acting on any of my advice.  
 
