@@ -29,6 +29,7 @@ Typos signal bad "attention to detail", which some PIs value. The lack thereof l
 
 ## Craft a Cover Letter Friendly to HRs
 Depending on the position, your cover letter may be first screened by an HR with little quantitative background. The HR may have so many applications to review that they look for excuses to throw away yours. Don't give them any excuse to. Don't throw economics jargon everywhere - nobody will eventually read your jargons if the HR trashes your application. Be sincere and show your interest in the position. Ask your roommate majoring in studio arts to read it, and re-write until they feel compelled to hire / interview you.
+
 Personal experience: in my junior year I applied to lots of summer RA positions with an insincere and poorly crafted cover letter full of technical jargons. I received only one offer and 0 other interviews, despite my advanced classes at Harvard and extensive RA experience.
 Bottom line: even if you could tell the counterfactual of every factual in the world, nobody cares unless the HR gives you a pass.
 
