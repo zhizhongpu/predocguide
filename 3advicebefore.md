@@ -69,13 +69,13 @@ How to find opportunities:
   - Some PIs explicitly state on their websites that they hire part-time RAs
 - Check out the PIs' Twitter - some post there
 - Check out centralized postings such as predoc.org / Econ RA Twitter
-- Cold email PIs whose work interests you. 
+- Cold email PIs whose work interests you
   - You should write a sincere and concise (1 paragraph) email explaining your interest and highlight your skills. 
     - Consider this email as a cover letter where you have 10s to make the reader want to learn about you more
   - Attach your CV, transcripts, writing sample, and code samples
   - Expect most PIs to not respond. Thank those who say no. You should keep on cold-emailing, but don't over-do it. You may look bad if you got multiple offers but then had to turn most down
 - Use Middlebury's alumni network
-  - A few alumni in the past two decades ara now professors at top research institutions, and more alumni are current PhD students
+  - A few alumni in the past two decades are now professors at top research institutions, and more alumni are current PhD students
   - You should connect to them and see if they have or can refer you to any opportunities.  
 
 ### Summer RA @Midd
