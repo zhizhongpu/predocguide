@@ -113,7 +113,7 @@ Here are some opportunities:
 
 If you are new to the economics literature, sometimes reading research summary books may be better than straight going to cutting-edge literature. This is because books are more structured and systematic, so they can give you a fuller picture of the field, while a paper usually focuses on a narrow aspect. Also, books are usually more tailored to a less technical audience. Examples of books include:
 - S. Dubner and S. Levitt, *Freakonomics*
-- D. Acemoglu and J. Robinson, *Why nations fail*
+- D. Acemoglu and J. Robinson, *Why Nations Fail*
 - D. Acemoglu and J. Robinson, *The Narrow Corridor*
 - D. Acemoglu and S. Johnson, *Power and Progress*
 - D. Acemoglu and D. Autor, *Lectures in Labor Economics*
