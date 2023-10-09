@@ -54,7 +54,7 @@ Similar to some other jobs like IBD and consulting, a common career ladder is: p
 
 ### Part-time RA Outside Middlebury
 - Some PIs run large labs with many part-time RAs who help with manual / dirty work
-  - These PIs tend to be prominent researchers with many projects and thus labor demand
+  - These PIs tend to be prominent researchers with many projects and thus high labor demand
   - e.g. Melissa Dell and David Yang
 - These positions usually require more skills than an average part-time RA position @Midd
 - You should expect no pay
