@@ -83,7 +83,7 @@ MiddEcon hires summer RAs around March or April.
 
 You should apply asap with your CV, transcripts, writing sample, and code samples.
 
-### Summer research outside Midd
+### Summer RA outside Midd
 - There are many summer research opportunities outside Middlebury
 - These can be quite competitive, with slight variation across programs
   - A good rule of thumb: if any past Middlebury students have done it, then perhaps you can too
