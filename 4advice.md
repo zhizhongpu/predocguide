@@ -14,9 +14,9 @@ Top positions open early. Many recruit on a rolling basis. For the rolling ones,
 - 2~3 recommendation letters
   - Some recommenders WILL wait until the very last minute to write you a letter
     - Personal experience: I know someone who made it to / past the final interview but missed the job because their letter was submitted too late
-  - Around mid-late summer, send over to your recommenders 
+  - Around mid-late summer, send over to your recommenders:
     - all your application materials 
-    - a list of positions you are applying to, along with the JD and how and by when to submit letters
+    - a list of positions you are applying to, the JDs, how and by when to submit letters
     - a list of your highlights / most significant research contributions / examples of your best qualities as a researcher 
   - After that, you should regularly (e.g. weekly) check in gently with your letter writers to make sure they are on track and answer any of their questions
 
