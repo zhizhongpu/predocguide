@@ -84,11 +84,11 @@ MiddEcon hires summer RAs around March or April.
 You should apply asap with your CV, transcripts, writing sample, and code samples.
 
 ### Summer RA outside Midd
-- There are many summer research opportunities outside Middlebury
+- There are many summer RA opportunities / research fellowships / bootcamps outside Middlebury
 - These can be quite competitive, with slight variation across programs
   - A good rule of thumb: if any past Middlebury students have done it, then perhaps you can too
 - Formal summer positions are mostly paid
-- Applications open any time from late-autumn to late-winter
+- Applications open around late-autumn till spring
 
 How to find these opportunities? You should certainly look up on the internet, but there are 2 easier ways: asking the economics faculty - they know their students and their colleagues' students - and chatting with alumni. With a few conversations, these two ways allow you to compile a long list of positions that Middlebury students can typically get into.
 
