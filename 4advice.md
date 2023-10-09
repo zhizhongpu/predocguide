@@ -5,7 +5,7 @@ nav_order: 4
 ---
 
 ## Apply Early
-Top positions open early. Many recruit on a rolling basis. For the rolling ones, an early application is a non-trivial advantage due to the high search cost (of reviewing data tasks and interviews). Have the following documents ready (i.e. written, reviewed by faculty / alumni / peers, rewritten, and proofread 3+ times on different days) by late August: 
+Top positions open early. Many recruit on a rolling basis. For the rolling ones, an early application is a non-trivial advantage due to the high search cost (of reviewing data tasks and conducting interviews). Have the following ready (i.e. written, reviewed by faculty / alumni / peers, rewritten, and proofread 3+ times on different days) by late August: 
 - CV
 - Annotated transcripts
 - Generic cover letter
