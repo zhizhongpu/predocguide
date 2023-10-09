@@ -68,7 +68,7 @@ How to find opportunities:
 - Visit the PIs' personal website
   - Some PIs explicitly state on their websites that they hire part-time RAs
 - Check out the PIs' Twitter - some post there
-- Check out centralize postings such as predoc.org / Econ RA Twitter
+- Check out centralized postings such as predoc.org / Econ RA Twitter
 - Cold email PIs whose work interests you. 
   - You should write a sincere and concise (1 paragraph) email explaining your interest and highlight your skills. 
     - Consider this email as a cover letter where you have 10s to make the reader want to learn about you more
