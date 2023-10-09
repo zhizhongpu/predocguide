@@ -79,8 +79,9 @@ How to find opportunities:
   - You should connect to them and see if they have or can refer you to any opportunities.  
 
 ### Summer RA @Midd
-Around March or April, the Economics department hires summer RAs
-You should apply asap with your CV, transcripts, writing sample, and code samples
+MiddEcon hires summer RAs around March or April.
+
+You should apply asap with your CV, transcripts, writing sample, and code samples.
 
 ### Summer research outside Midd
 - There are many summer research opportunities outside Middlebury
