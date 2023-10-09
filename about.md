@@ -8,7 +8,7 @@ This guide is written by Zhizhong Pu in Oct 2023.
 
 Suggestions and questions are welcome - please post as issues in the [github repo](https://github.com/zhizhongpu/predocguide/issues).
 
-I spent hours working on this guide. If it is helpful for you, please let me know by starring the [github repo](https://github.com/zhizhongpu/predocguide/).
+I spent hours working on this guide. If it is helpful for you, please let me know by starring the [repo](https://github.com/zhizhongpu/predocguide/).
 
 ## Epistemological Notes
 When I studied at Harvard, I worked with predocs at David Yang's and Melissa Dell's labs. In 2023, I applied to 15 predoc positions, got 2 job offers, including Jesse Shapiro's lab, by early October. I also scheduled interviews with Amy Finkelstein and Blueprint Labs before withdrawing. This document's content mostly comes from my personal experiences, reading online, and conversations with my many helpful connections and faculty mentors.
