@@ -25,7 +25,7 @@ nav_order: 3
 - An Economics CW course
 - Any other coursework in Math, Economics, Statistics, and Computer Science
 
-What about field courses in economics? Valuable they might be for your learning and undergraduate research, they are not as valued by PIs of top predoc programs except for those specific to some programs (e.g. a health economics class could benefit your application to Amy Finkelstein's lab). Field courses with more math and more academic papers may help you more.     
+What about field courses in economics? Valuable they might be for your learning and undergraduate research, they are not as valued by PIs of top predoc programs except for those specific to some programs (e.g. a health economics class could benefit your application to Amy Finkelstein's lab). Field courses with more math and more academic papers may help you more than those with less.     
 
 **Sequence**: 
 - Consider taking the most challenging and "useful" / "practical" coursework as early as possible to help you get research opportunities
