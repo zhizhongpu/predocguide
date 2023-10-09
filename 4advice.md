@@ -26,7 +26,7 @@ This is a common advice. Typos signal bad "attention to detail", which some PIs 
 Personal experience: I got an offer from a position whose PI read my thesis which has a huge typo in the abstract.
 
 ## Make Slides for Your Thesis
-- You will almost always be asked about your thesis / independent research projects during interviews. A slide deck helps you present your thesis clearly and professionally
+- You will almost always be asked about your thesis / independent research projects during interviews. A slide deck helps you present your thesis clearly and professionally. Consider using beamer.
 - If you have 0 independent research projects, makes slides for the RA project to which you contributed the most
 
 ## Craft HR-friendly Cover Letters
