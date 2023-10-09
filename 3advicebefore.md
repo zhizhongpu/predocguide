@@ -29,7 +29,7 @@ What about field courses in economics? Valuable they might be for your learning 
 
 **Sequence**: 
 - Consider taking the most challenging and "useful" / "practical" coursework as early as possible to help you get research opportunities
-  - Personal experience: In my 2nd year a PI at Brookings commented on the fact that I was already taking real analysis during an interview, and it might have factored in the offer he made me eventually. (For reference, however, you may wish to know that many students at Harvard take real analysis as part of their first math course - that is just how math classes there are structured)
+  - Personal experience: In my 2nd year a PI at Brookings commented during the interview on the fact that I was already taking real analysis, and it might have factored in the offer he made me eventually. (For reference, however, you may wish to know that many students at Harvard take real analysis as part of their first math course - that is just how math classes there are structured)
 - Some courses are offered only once every few years. You should try your best to do them as early as possible, by taking the pre-reqs early or talking to the instructor.
 
 ## Gain Research Experience 
