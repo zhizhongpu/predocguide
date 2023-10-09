@@ -105,8 +105,8 @@ Reading may be hard at the beginning, but it goes easier as you read more, becau
 Here are some opportunities:
 - Follow NBER / IZA / economics journals on LinkedIn / Twitter / Instagram. Fill your social media with interesting papers
 - Sign up for research summary emails from institutions like J-PAL or HBS
-- MiddEcon invites external speakers to give talks and talk with students. Sign up for a lunch if possible and attend their research talks
-- Join MiddEcon's economics student advisory committee (SAC) to have free lunch with visiting candidates to interview at MiddEcon
+- MiddEcon invites external speakers to present papers and talk with students. Sign up for a lunch if possible and attend their presentations
+- Join MiddEcon's student advisory committee (SAC) for free lunch chat with candidates visiting to interview at MiddEcon
 - Ask MiddEcon faculty for lunch, offered for free at MiddDining
 - External opportunities for talks. For example, Harvard has its [seminar series](https://economics.harvard.edu/seminars-workshops), the majority of which is steamed on zoom
 - [Econimate](https://www.youtube.com/@econimate) on Youtube
