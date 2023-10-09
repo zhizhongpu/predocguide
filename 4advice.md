@@ -18,7 +18,7 @@ Top positions open early. Many recruit on a rolling basis. For the rolling ones,
     - all your application materials 
     - a list of positions you are applying to, the JDs, how and by when to submit letters
     - a list of your highlights / most significant research contributions / examples of your best qualities as a researcher 
-  - After that, you should regularly (e.g. weekly) check in gently with your letter writers to make sure they are on track and answer any of their questions
+  - After that, you should regularly (e.g. weekly) check in gently with your letter writers to answer any of their questions and to make sure they are on track
 
 ## Have 0 Typos
 This is a common advice. Typos signal bad "attention to detail", which some PIs value. The lack thereof leads researchers to make stupid mistakes that could cost days or weeks to fix, and it undermines the credibility of their research work and code. In your writing materials (cover letter, CV, and writing sample) you should try to reduce typos / errors, but don't stress about it. 
