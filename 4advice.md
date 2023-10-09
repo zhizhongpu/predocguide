@@ -20,8 +20,10 @@ Top positions open early. Many recruit on a rolling basis. For the rolling ones,
     - a list of your highlights / most significant research contributions / examples of your best qualities as a researcher 
   - After that, you should regularly (e.g. weekly) check in gently with your letter writers to make sure they are on track and answer any of their questions
 
-## No Typos
-Typos signal bad "attention to detail", which some PIs value. The lack thereof leads researchers to make stupid mistakes that could cost days or weeks to fix, and it undermines the credibility of their research work and code. 
+## Have 0 Typos
+This is a common advice. Typos signal bad "attention to detail", which some PIs value. The lack thereof leads researchers to make stupid mistakes that could cost days or weeks to fix, and it undermines the credibility of their research work and code. In your writing materials (cover letter, CV, and writing sample) you should try to reduce typos / errors, but don't stress about it. 
+
+Personal experience: I got an offer from a position whose PI read my thesis which has a huge typo in the abstract.
 
 ## Make Slides for Your Thesis
 - You will almost always be asked about your thesis / independent research projects during interviews. A slide deck helps you present your thesis clearly and professionally
