@@ -1,5 +1,5 @@
 ---
-title: 2. Recommend Readings
+title: 2. Recommended Readings
 layout: default
 nav_order: 2
 ---
