@@ -41,13 +41,13 @@ To:
 - learn about different fields of social science
 - develop ideas for your own thesis / independent research
 
-Similar to some other jobs like IBD and consulting, a common career ladder is: part-time RA → full-time summer RA → predoc, where the scale of project, your contributions, and the name recognizability of your PIs increase along the path
+Similar to some other jobs like IBD and consulting, a common career ladder is: part-time RA → full-time summer RA → predoc, where the scale of project, your contributions, and the name recognizability of your PIs increase along the path.
 
 ### Part-time / Semester RA @Midd
 - Part-time semester RA positions at Middlebury usually require little or no prior research experience. 
   - Core economics courses and coding skills in Stata and R make you competitive
-- Due to search cost, not all info about semester RA positions is posted publicly. 
-  - You should reach out to professors privately
+- Due to search cost, not all semester RA positions are posted publicly
+  - So reach out to faculty
 - At this stage, you should take on projects with maximal learning opportunities and good PIs
   - Your interest in the field / topic should be secondary
 - You may also consider RA positions in the statistics or political science department
