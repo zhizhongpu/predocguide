@@ -143,11 +143,13 @@ Conditions permitting, you should consider transferring to / studying / exchangi
 These institutions tend to offer more advanced classes (e.g. graduate classes, advanced real analysis, proof-heavy math classes) and their grades are more recognizable.
 
 ## Feb Yourself
-Most predocs start in early summer, but some PIs will prefer candidates who can start earlier. Being a Feb does not hurt and sometimes is an advantage, so do it if possible.
+Most predocs start in early summer, but some PIs will prefer candidates who can start earlier. Being a Feb does not hurt and sometimes is an advantage, so do it if possible and all else equal.
 
-## Have your GRE scores ready
-Most PIs value both competitiveness in grad school applications and qualitative & quantitative skills. A pretty GRE score helps with your application in both dimensions - and you will have to take it anyways before applying to grad school. 
+## Take the GRE
+Many PIs value both competitiveness in grad school applications and qualitative & quantitative skills. A pretty GRE score helps with your application in both dimensions - and you will have to take it anyways before applying to grad school. (I have, however, encoutered no predocs that require GRE scores to apply - this is totally optional.)
 
+## Have Your Thesis / Writing Sample Ready
+The vast majority of top predoc programs require, or at least accept (certainly will value), a writing sample. They claim that it is to help them evaluate your writing skills, but you can demonstrate a lot more qualities in your writing sample: your creativity, research potential, thought processes when engaging with data, quantitative prowess, good "taste", organization, graphing skills, Latex mastery, how many papers you read. With these in mind, have your thesis ready (i.e. written, reviewed by faculty / peers, rewritten, and proofread 3+ times on different days).
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
