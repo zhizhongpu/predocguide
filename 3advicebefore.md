@@ -97,10 +97,10 @@ There are also informal summer research positions that you could get from cold-e
 - You may get a summer 0555 credit for external summer research that results in concrete deliverables (a paper or at least a slide deck)
   - At this moment I might be the only person in recent history to have taken advantage of this, and Jeffrey Carpenter helped me. You should contact him if you are interested.
 
-## Read (Lots Of) Papers
+## Read (Lots of) Papers
 A good researcher is creative, but where does creativity come from? You may be a genius and simply create from the void, but that is hard for me. Instead, I gain creativity from reading lots of papers, from which I learnt about new data sources, methodology, common arguments, theory concepts, ways to measure / quantify conceptual variables, and questions that were / are being asked by economists. 
 
-Reading may be hard at the beginning, but it goes easier as you read more, because you come across more familiar concepts and are able to connect unfamiliar ones to familiar ones. This is a long term effort. 
+Reading may be hard at the beginning, but it gets easier as you read more, because you come across more familiar concepts and are able to connect unfamiliar ones to familiar ones. This is a long term effort. 
 
 Here are some opportunities:
 - Follow NBER / IZA / economics journals on LinkedIn / Twitter / Instagram. Fill your social media with interesting papers
