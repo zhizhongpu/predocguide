@@ -27,7 +27,7 @@ Expressed are my personal opinions. Many of them will not be the optimal advice 
 - Chicago Booth: Pascal Noel
 - Chicago BFI: Magne Mogstad, Alexander Torgovitsky
 
-Non-top predocs also place researchers into top economics PhD programs, albeit less frequently. 
+Many other / non-top predocs also place researchers into top economics PhD programs, albeit potentially less frequently.
 
 
 ### Why a "top" predoc program may NOT be for you
