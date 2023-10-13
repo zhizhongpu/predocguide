@@ -17,6 +17,8 @@ I find advice in these readings helpful, but in this document I will rarely repe
 - Jesse Shapiro, *Four Steps to an Applied Micro Paper*
 - Jesse Shapiro, *How to Give an Applied Micro Talk: Unauthoritative Notes*
 - Deirdre McCloskey, *Economical Writing*. I don't consider the full text necessary. A summary should suffice.
+- Claudia Goldin and Lawrence Katz, _The Ten Most Important Rules of Writing Your Job Market Paper_ 
+
 
 ## On Coding / Data Work
 - Matthew Gentzkow and Jesse Shapiro, *Code and Data for the Social Sciences: A Practitioner’s Guide*
